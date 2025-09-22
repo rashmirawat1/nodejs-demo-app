@@ -86,10 +86,10 @@ Steps executed in the pipeline:
 ## 📸 Screenshots
 
 ### ✅ Successful Workflow Run
-![GitHub Actions Workflow Screenshot](./screenshots/workflow-success.png)
+![GitHub Actions Workflow Screenshot](./workflow-success.png)
 
 ### 🐳 DockerHub Repository
-![DockerHub Screenshot](./screenshots/dockerhub-image.png)
+![DockerHub Screenshot](./dockerhub-image.png)
 
 ---
 
