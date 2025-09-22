@@ -36,4 +36,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/<IMAGE_NAME>:latest,${{ secrets.DOCKERHUB_USERNAME }}/<IMAGE_NAME>:${{ github.sha }}
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/nodejs-demo:latest,${{ secrets.DOCKERHUB_USERNAME }}/nodejs-demo:${{ github.sha }}
