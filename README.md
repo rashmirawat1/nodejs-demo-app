@@ -21,7 +21,7 @@ Make sure you have the following installed on your machine:
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/<rashmirawat1>/nodejs-demo-app.git
+git clone https://github.com/rashmirawat1/nodejs-demo-app.git
 cd nodejs-demo-app
 npm install
 ```
