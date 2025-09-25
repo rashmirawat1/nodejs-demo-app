@@ -1,11 +1,11 @@
-# 🚀 NodeJS Demo App - CI/CD with GitHub Actions & Docker
+# NodeJS Demo App - CI/CD with GitHub Actions & Docker
 
 This repository contains a simple **Node.js + Express** application that demonstrates a basic **CI/CD pipeline** using **GitHub Actions** and **Docker**.  
 The pipeline installs dependencies, runs tests, builds a Docker image, and pushes it to DockerHub automatically.
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Make sure you have the following installed on your machine:
 
@@ -16,7 +16,7 @@ Make sure you have the following installed on your machine:
 
 ---
 
-## 🛠 Setup & Run Locally
+## Setup & Run Locally
 
 Clone this repository and install dependencies:
 
@@ -41,7 +41,7 @@ Hello from nodejs-demo-app!
 
 ---
 
-## ✅ Run Tests
+## Run Tests
 
 Run the smoke test:
 
@@ -53,7 +53,7 @@ Exit code `0` = success.
 
 ---
 
-## 🐳 Docker Instructions
+## Docker Instructions
 
 ### Build Docker Image Locally
 ```bash
@@ -69,7 +69,7 @@ Visit [http://localhost:3000](http://localhost:3000) again — you should see th
 
 ---
 
-## ⚙️ CI/CD Pipeline (GitHub Actions)
+## CI/CD Pipeline (GitHub Actions)
 
 This project uses **GitHub Actions** workflow stored at `.github/workflows/main.yml`.  
 Steps executed in the pipeline:
